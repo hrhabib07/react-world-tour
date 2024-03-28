@@ -1,0 +1,12 @@
+.country{
+    border: 2px solid lightblue;
+    margin: 10px;
+    padding: 10px;
+    width: 400px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.visited-country{
+    background-color: lightslategray;
+}
